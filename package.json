@@ -3,17 +3,17 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://pavel-sheremet-dev.github.io/goit-tp-2",
+  "homepage": "https://SvitlanaZhovanik.github.io/Command-project-JS",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-tp-2/"
+    "build": "parcel build src/*.html --public-url /Command-project-JS/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pavel-sheremet-dev/goit-tp-2.git"
+    "url": "git+https://github.com/SvitlanaZhovanik/Command-project-JS.git"
   },
   "keywords": [],
-  "author": "Pavel Sheremet <pashqa.sheremet@gmail.com>",
+  "author": "Pavel Sheremet <pashqa.sheremet@gmail.com> Our team lead",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pavel-sheremet-dev/parcel-project-template/issues"
