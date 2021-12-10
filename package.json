@@ -1,0 +1,35 @@
+{
+  "name": "parcel-project-template",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://SvitlanaZhovanik.github.io/Command-project-JS",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /Command-project-JS/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavel-sheremet-dev/goit-tp-2.git"
+  },
+  "keywords": [],
+  "author": "Pavel Sheremet <pashqa.sheremet@gmail.com> Our Team Lead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavel-sheremet-dev/parcel-project-template/issues"
+  },
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "posthtml-include": "^1.6.2",
+    "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "material-icons": "^1.10.2",
+    "spin.js": "^4.1.1",
+    "tui-pagination": "^3.4.1"
+  }
+}
